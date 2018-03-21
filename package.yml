@@ -1,0 +1,20 @@
+# Alle hier gesetzten Werte können über $addon->getProperty($key) abgefragt werden
+package: modulemanager
+version: '1.0.0'
+author: 'Markus Schnieder'
+compile: 0
+
+page:
+  title: 'Module Manager'
+  perm: modulemanager[]
+  pjax: true
+  icon: rex-icon rex-icon-install
+  subpages:
+    update: { title: 'translate:update' }
+    add: { title: 'translate:package_install' }
+    settings: { title: 'translate:main_preferences' }
+
+requires:
+    php:
+      version: ">=5.6"
+    redaxo: '>=5.0.0'

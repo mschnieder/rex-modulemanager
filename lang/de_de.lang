@@ -1,0 +1,29 @@
+# addon:modulemanager de_de
+
+modulemanager_available_updates = Verfügbare Updates
+
+modulemanager_key = Key
+modulemanager_existing_version = Installierte Version
+modulemanager_available_versions = Verfügbare Versionen
+
+
+modulemanager_search = suchen
+modulemanager_clear = löschen
+modulemanager_modules_found = Verfügbare module
+modulemanager_author = Author
+modulemanager_shortdescription = Kurzbeschreibung
+modulemanager_header_function = Funktionen
+
+modulemanager_information = Informationen
+
+modulemanager_files = Modul Versionen
+
+subpage_settings = Einstellungen
+
+settings_general = Allgemein
+
+settings_master_url = Master Hostname
+
+settings_saved = Einstellungen gespeichert
+
+download = installieren

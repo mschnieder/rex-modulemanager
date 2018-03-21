@@ -1,0 +1,10 @@
+### IntelliJ template
+# IntelliJ project files
+.idea/**/*.xml
+.idea
+*.iml
+
+### MAC OS X ###
+._*
+.DS_Store
+*~
